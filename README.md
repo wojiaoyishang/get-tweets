@@ -1,7 +1,7 @@
 # 批量获取推文
 
 #### 介绍
-批量获取推文，请看 BiliBili 的介绍视频。
+批量获取推文，请看 BiliBili 的介绍视频 https://www.bilibili.com/video/BV1M34y1f7oz 。
 
 以赏的篝火旁 https://lovepikachu.top
 
