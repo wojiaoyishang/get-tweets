@@ -91,7 +91,7 @@ function get_tweet() {
             Array.from(div.getElementsByTagName("img")).forEach((img) => {
                 if (img.src.indexOf("pbs.twimg.com/media") != -1){
                     console.log(img.src);
-                    url = img.src;
+                    var url = img.src;
                     // 处理 url 链接，获取最大的图片，就是原图
                     let pos = url.indexOf("?");
                     if (pos === -1) {
