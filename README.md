@@ -6,7 +6,7 @@
 
 | 爬取方式                     |                                                                          链接                                                                          |                                             视频说明                                             |
 |:-------------------------|:----------------------------------------------------------------------------------------------------------------------------------------------------:|:--------------------------------------------------------------------------------------------:|
-| Python + Playwright （推荐） |                            [点我前往](https://gitee.com/wojiaoyishang/get-tweets/tree/master/Playwright%20%E6%96%B9%E6%B3%95)                            | [https://www.bilibili.com/video/BV1mx4y1t7Uo/](https://www.bilibili.com/video/BV1mx4y1t7Uo/) |
+| Python + Playwright （推荐） |                            [点我前往](https://gitee.com/wojiaoyishang/get-tweets/tree/master/Playwright%20%E6%96%B9%E6%B3%95)                            | [https://www.bilibili.com/video/BV1mx4y1t7Uo](https://www.bilibili.com/video/BV1mx4y1t7Uo/) |
 | 油猴脚本 + Python下载          | [点我前往](https://gitee.com/wojiaoyishang/get-tweets/tree/master/%E6%B2%B9%E7%8C%B4%E8%84%9A%E6%9C%AC%20+%20Python%E8%81%94%E5%8A%A8%E6%96%B9%E6%B3%95) |  [https://www.bilibili.com/video/BV1M34y1f7oz](https://www.bilibili.com/video/BV1M34y1f7oz)  
 
 #### Python + Playwright
